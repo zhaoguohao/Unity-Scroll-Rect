@@ -34,3 +34,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/PageView.CSharp.csproj
+/PageView.csproj
+/PageView.sln
+/README.md
+/Unity_Scroll Rect.csproj
+/Unity_Scroll Rect.sln
+/Unity-Scroll-Rect.csproj
+/Unity-Scroll-Rect.Plugins.csproj
+/Unity-Scroll-Rect.sln
