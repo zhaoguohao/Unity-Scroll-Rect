@@ -1,7 +1,6 @@
-#Unity-Scroll-Rect     
-###unity中用Scroll Rect实现页面的滑动
+# Unity-Scroll-Rect     
+### unity中用Scroll Rect实现页面的滑动
 *	<b>使用UGUI，分辨率<br>:shipit:`1920_1080` 
-
 
     ![manew](http://www.manew.com/fb/images/logo.png "蛮牛logo")
 
