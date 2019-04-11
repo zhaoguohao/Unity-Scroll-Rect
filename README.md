@@ -7,7 +7,7 @@
 
 *	:+1:借鉴蛮牛上的滑动:<br>`http://www.manew.com/thread-98712-1-1.html`
 
-   [![jianshu](https://cdn2.jianshu.io/assets/web/nav-logo-4c7bbafe27adc892f3046e6978459bac.png "简书logo")](https://www.jianshu.com/p/f67dd8299ef7)
+   [![jianshu](https://cdn2.jianshu.io/assets/web/nav-logo-4c7bbafe27adc892f3046e6978459bac.png "简书链接")](https://www.jianshu.com/p/f67dd8299ef7)
    
 
 * :+1:借鉴简书上的滑动：<br>`https://www.jianshu.com/p/f67dd8299ef7`
